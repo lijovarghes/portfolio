@@ -1,0 +1,41 @@
+#ch{
+    color:aqua;
+    text-decoration:underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(25, 197, 82);
+    
+   font-style: italic;
+}
+p{color: blue;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.ab{
+    color: rgb(97, 23, 167);
+    background-color: rgb(103, 153, 52);
+    
+}
+#n{
+   color: rgb(170, 23, 23);
+    background-color: rgb(130, 144, 187);
+}
+.div{
+    
+    padding: 50px;
+    
+}
+.l{
+    height: 300px;
+    width: 450px;
+}
+
+.main{
+    display: flex;
+    font-style: normal;
+    
+}
+#a{
+    text-align: right;
+}
